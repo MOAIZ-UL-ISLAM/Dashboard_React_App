@@ -6,21 +6,17 @@
 This Website is Created using Vite-React and is visually appealing to users and works handy😃.
 
 
-## Moaiz-ul-islam
-
-- [https://github.com/MOAIZ-UL-ISLAM](https://www.github.com/octokatherine)
-
 
 ## Demo
 
 
 https://thunderous-crepe-72ab6b.netlify.app/
 ## 🚀 About Me
-I'm Moaiz a front-end developer specilaized in reat , react-native and javascript / Python 
+I'm Moaiz a front-end developer specilaized in react , react-native, and javascript / Python 
 
 
 
-- [https://github.com/MOAIZ-UL-ISLAM](https://www.github.com/octokatherine)
+- [https://github.com/MOAIZ-UL-ISLAM]
 
 ## Run Locally
 
