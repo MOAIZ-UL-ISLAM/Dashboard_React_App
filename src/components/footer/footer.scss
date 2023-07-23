@@ -1,0 +1,33 @@
+.footer {
+  .main {
+    background-color: #312f2f;
+    display: flex;
+    align-items: center;
+    padding: 20px 10px;
+    justify-content: space-between;
+    .links {
+      display: flex;
+      gap: 35px;
+      align-items: center;
+      p {
+        font-size: 12px;
+        font-weight: 300;
+        cursor: pointer;
+        &:hover {
+          border-bottom: 2px solid #f3eded;
+        }
+      }
+    }
+    .logo {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      cursor: pointer;
+      img {
+        width: 20px;
+        height: 20px;
+      }
+    }
+  }
+}
